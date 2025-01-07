@@ -1,5 +1,5 @@
 # Name
-ML and AI engine for Python
+Large Language Model for healthcare
 
 # Description
 ML and AI engine to process distinct data files.
