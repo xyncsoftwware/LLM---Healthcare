@@ -1,11 +1,11 @@
 # Name
-Large Language Model for healthcare
+LLM--Sentiment
 
 # Description
-ML and AI engine to process distinct data files.
+Sentiment analysis example using a text file for input. The program analysis the file line by line and gives the document a total sentiment score
 
 # Execute
-python -engine [LLM|KVM] -store [Path to Data]
+python LLM_Sentiment.py
 
 # Contributors
 Guillermo Rodriguez - xyncsoftware@gmail.com
