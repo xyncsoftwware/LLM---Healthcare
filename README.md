@@ -2,7 +2,9 @@
 LLM--Sentiment
 
 # Description
-Sentiment analysis example using a text file for input. The program analysis the file line by line and gives the document a total sentiment score
+The program demonstrates a sentiment analysis example using a text file for input. The program analyzes the file line by line and gives the following output:
+    1. Sentiment score of each sentence
+    2. Sentiment classification of the document which can be either positive, neutral, or negative
 
 # Execute
 python LLM_Sentiment.py
